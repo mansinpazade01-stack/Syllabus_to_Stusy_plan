@@ -1,0 +1,55 @@
+topic,label
+Introduction to machine learning,Easy
+History of artificial intelligence,Easy
+Overview of database systems,Easy
+Applications of AI,Easy
+Types of learning,Easy
+Definition and scope of data science,Easy
+Basic terminology,Easy
+Need of normalization,Easy
+Advantages and disadvantages of DBMS,Easy
+Data types and variables,Easy
+Ethical issues in AI,Easy
+Characteristics of big data,Easy
+Software development life cycle,Easy
+Features of operating systems,Easy
+Case study of recommender systems,Easy
+Trends and challenges,Easy
+Data collection and cleaning,Easy
+Linear regression,Medium
+Logistic regression,Medium
+Decision trees,Medium
+K-means clustering,Medium
+k-nearest neighbours,Medium
+Naive Bayes classifier,Medium
+ER model and relational model,Medium
+SQL queries and joins,Medium
+Normal forms 1NF 2NF 3NF,Medium
+Breadth first and depth first search,Medium
+Cross validation and model evaluation,Medium
+Feature selection and scaling,Medium
+Sorting and searching algorithms,Medium
+Stack and queue implementation,Medium
+Process scheduling algorithms,Medium
+Confusion matrix precision and recall,Medium
+Principal component analysis,Medium
+Association rule mining,Medium
+Backpropagation and gradient descent derivation,Hard
+Support vector machines and kernel trick,Hard
+Convolutional neural networks,Hard
+Recurrent networks LSTM and GRU,Hard
+Transformers and self attention,Hard
+Reinforcement learning Markov decision process,Hard
+Bayesian inference and probabilistic graphical models,Hard
+Concurrency control and serializability,Hard
+Transaction recovery and logging,Hard
+Query optimization and cost estimation,Hard
+B+ tree indexing,Hard
+Dynamic programming and optimization,Hard
+Regularization and bias variance derivation,Hard
+Generative adversarial networks,Hard
+Expectation maximization for Gaussian mixture models,Hard
+Eigenvalue decomposition and singular value decomposition,Hard
+Distributed databases and consensus,Hard
+NP completeness and approximation algorithms,Hard
+Hidden Markov models and Viterbi algorithm,Hard
