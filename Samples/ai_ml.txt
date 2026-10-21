@@ -1,0 +1,34 @@
+Course: Machine Learning (Semester V)
+Teaching scheme: 3 Hrs/Week
+
+Unit I: Introduction to Machine Learning (08 Hrs)
+Definition of machine learning, history, applications, types of learning (supervised, unsupervised, reinforcement),
+data preprocessing, feature scaling, train-test split, bias-variance tradeoff, overfitting and underfitting.
+
+Unit II: Supervised Learning - Regression (08 Hrs)
+Linear regression, multiple linear regression, polynomial regression, gradient descent derivation, regularization (Ridge, Lasso),
+logistic regression, evaluation metrics: MSE, R-squared, confusion matrix, precision, recall, F1 score, ROC curve.
+
+Unit III: Classification Algorithms (08 Hrs)
+k-nearest neighbours, Naive Bayes classifier, decision trees, random forests, bagging and boosting,
+support vector machines and kernel trick, cross validation, hyperparameter tuning.
+
+Unit IV: Unsupervised Learning (07 Hrs)
+K-means clustering, hierarchical clustering, DBSCAN, Gaussian mixture models and expectation maximization,
+principal component analysis, eigenvalue decomposition, association rule mining, Apriori algorithm.
+
+Unit V: Neural Networks and Deep Learning (09 Hrs)
+Perceptron, multilayer perceptron, activation functions, backpropagation, optimizers (SGD, Adam), convolutional neural networks,
+recurrent neural networks, LSTM, transformers and self attention, transfer learning.
+
+Unit VI: Reinforcement Learning and Applications (07 Hrs)
+Introduction to reinforcement learning, Markov decision process, Q-learning, policy gradient methods,
+applications of ML in healthcare, finance and recommender systems, ethical issues in AI.
+
+Course Outcomes
+CO1: Explain the basic concepts of machine learning
+CO2: Apply regression and classification algorithms
+
+Text Books
+1. Tom Mitchell, Machine Learning, McGraw Hill
+2. Ethem Alpaydin, Introduction to Machine Learning, PHI

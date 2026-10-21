@@ -1,0 +1,29 @@
+Database Management Systems
+
+UNIT-I Introduction to Databases
+Overview of DBMS, advantages over file systems, data models, three schema architecture, database users, ER model, EER model, relational model.
+
+UNIT-II Relational Algebra and SQL
+Relational algebra operations, tuple relational calculus, SQL data definition, SELECT queries, joins, nested queries,
+aggregate functions, views, triggers, stored procedures.
+
+UNIT-III Normalization
+• Functional dependencies
+• Armstrong's axioms
+• 1NF, 2NF, 3NF, BCNF
+• Multivalued dependencies and 4NF
+• Lossless join decomposition
+• Dependency preservation
+
+UNIT-IV Transaction Management
+Transaction concept, ACID properties, schedules, conflict serializability, concurrency control: lock-based protocols,
+two-phase locking, timestamp ordering, deadlock handling, recovery: log-based recovery, checkpoints, shadow paging.
+
+UNIT-V Storage and Indexing
+File organization, hashing, ordered indices, B-tree and B+ tree indexing, query processing, query optimization, cost estimation.
+
+UNIT-VI Advanced Databases
+Distributed databases, NoSQL databases, MongoDB basics, big data and Hadoop overview, data warehousing and OLAP.
+
+Reference Books
+1. Silberschatz, Korth, Database System Concepts
